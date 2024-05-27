@@ -1,4 +1,4 @@
-from src.utils.my_util import add
+from utils.my_util import add
 
 def test_add():
     assert add(1, 2) == 3
